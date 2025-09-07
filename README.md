@@ -16,7 +16,7 @@ This is a mini Python project that calculates the percentage of GC Content 🧬
 
 1. Clone the repository:
    ```bash
-   git clone https://github.com/<username>/gc-content-calculator.git
+   git clone https://github.com/nawaf-alharthi/gc-content-calculator.git
    cd gc-content-calculator
    ``` 
    2. Install the requirements:
